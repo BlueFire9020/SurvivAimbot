@@ -359,13 +359,13 @@ webpackJsonp([0], {
                     rad: 1,
                     skinImg: {
                         baseTint: 16566389,
-                        baseSprite: "img/player/player-base.svg",
+                        baseSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
                         baseScale: 1,
                         handTint: 16566389,
-                        handSprite: "img/player/player-hands.svg"
+                        handSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png"
                     },
                     lootImg: {
-                        sprite: "img/loot/loot-shirt-01.svg",
+                        sprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
                         scale: .2,
                         rad: 16,
                         border: !0,
@@ -382,13 +382,13 @@ webpackJsonp([0], {
                     rad: 1,
                     skinImg: {
                         baseTint: 2831146,
-                        baseSprite: "img/player/player-base.svg",
+                        baseSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
                         baseScale: 1,
                         handTint: 5925970,
-                        handSprite: "img/player/player-hands.svg"
+                        handSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png"
                     },
                     lootImg: {
-                        sprite: "img/loot/loot-shirt-01.svg",
+                        sprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
                         scale: .2,
                         rad: 16,
                         border: !0,
