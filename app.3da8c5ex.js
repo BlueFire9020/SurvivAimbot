@@ -74,7 +74,7 @@ webpackJsonp([0], {
                 freeSwitchCooldown: 1,
                 headshotChance: .15,
                 img: {
-                    scale: 0
+                    scale: 1
                 },
                 spectateDeadTimeout: 2,
                 bleedTickRate: 1,
@@ -2093,10 +2093,10 @@ webpackJsonp([0], {
                 }
             },
             scopeZoomRadius: {
-                "1xscope": 28,
-                "2xscope": 36,
-                "4xscope": 48,
-                "8xscope": 68,
+                "1xscope": 100,
+                "2xscope": 100,
+                "4xscope": 100,
+                "8xscope": 100,
                 "15xscope": 104
             },
             bagSizes: {
