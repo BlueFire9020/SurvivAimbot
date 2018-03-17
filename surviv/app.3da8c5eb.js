@@ -63,7 +63,7 @@ webpackJsonp([0], {
             player: {
                 radius: 1,
                 minActiveTime: 10,
-                moveSpeed: 12,
+                moveSpeed: 1222,
                 health: 100,
                 boostDecay: .33,
                 boostMoveSpeed: 2,
@@ -635,8 +635,8 @@ webpackJsonp([0], {
                     rangeMult: 55,
                     areaOfEffect: 5.75,
                     damageTime: .01,
-                    cooldownTime: .001,
-                    damage: 240,
+                    cooldownTime: .01,
+                    damage: 22,
                     headshotMult: 55,
                     speed: {
                         equip: 1,
@@ -644,7 +644,7 @@ webpackJsonp([0], {
                     },
                     sound: {
                         swing: "mp5_01",
-                        deploy: "stow_weapon_01"
+                        deploy: "mp5_reload_01"
                     }
                 },
                 mp5: {
@@ -1390,7 +1390,7 @@ webpackJsonp([0], {
                 m9: {
                     name: "M9",
                     type: "gun",
-                    fireMode: "single",
+                    fireMode: "auto",
                     reloadMode: "mag",
                     caseTiming: "shoot",
                     ammo: "9mm",
@@ -1398,7 +1398,7 @@ webpackJsonp([0], {
                     maxClip: 15,
                     maxReload: 15,
                     reloadTime: 1.6,
-                    fireDelay: .1,
+                    fireDelay: .01,
                     switchDelay: .25,
                     lengthMult: .5,
                     rad: 1.25,
@@ -1419,7 +1419,7 @@ webpackJsonp([0], {
                         tint: 65280
                     },
                     worldImg: {
-                        sprite: "img/guns/gun-short.svg",
+                        sprite: "img/guns/gun-med.svg",
                         scale: {
                             x: .5,
                             y: .51
