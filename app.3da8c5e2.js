@@ -359,13 +359,13 @@ webpackJsonp([0], {
                     rad: 1,
                     skinImg: {
                         baseTint: 16566389,
-                        baseSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
+                        baseSprite: "http://surviv.io/img/emotes/ammo-762mm.svg",
                         baseScale: 1,
                         handTint: 16566389,
-                        handSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png"
+                        handSprite: "img/player/player-hands.svg"
                     },
                     lootImg: {
-                        sprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
+                        sprite: "http://surviv.io/img/emotes/mexico.svg",
                         scale: .2,
                         rad: 16,
                         border: !0,
@@ -382,13 +382,13 @@ webpackJsonp([0], {
                     rad: 1,
                     skinImg: {
                         baseTint: 2831146,
-                        baseSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
+                        baseSprite: "http://surviv.io/img/emotes/ammo-12gauge.svg",
                         baseScale: 1,
                         handTint: 5925970,
-                        handSprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png"
+                        handSprite: "img/player/player-hands.svg"
                     },
                     lootImg: {
-                        sprite: "http://i0.kym-cdn.com/photos/images/original/001/255/479/85b.png",
+                        sprite: "http://surviv.io/img/emotes/mexico.svg",
                         scale: .2,
                         rad: 16,
                         border: !0,
