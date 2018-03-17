@@ -2014,7 +2014,7 @@ webpackJsonp([0], {
                 "1xscope": {
                     name: "1x Scope",
                     type: "scope",
-                    level: 1,
+                    level: 30,
                     rad: 1,
                     lootImg: {
                         sprite: "img/loot/loot-scope-00.svg",
@@ -2030,7 +2030,7 @@ webpackJsonp([0], {
                 "2xscope": {
                     name: "2x Scope",
                     type: "scope",
-                    level: 2,
+                    level: 35,
                     rad: 1,
                     lootImg: {
                         sprite: "img/loot/loot-scope-01.svg",
@@ -2046,7 +2046,7 @@ webpackJsonp([0], {
                 "4xscope": {
                     name: "4x Scope",
                     type: "scope",
-                    level: 4,
+                    level: 40,
                     rad: 1,
                     lootImg: {
                         sprite: "img/loot/loot-scope-02.svg",
@@ -2062,7 +2062,7 @@ webpackJsonp([0], {
                 "8xscope": {
                     name: "8x Scope",
                     type: "scope",
-                    level: 8,
+                    Level:45,
                     rad: 1,
                     lootImg: {
                         sprite: "img/loot/loot-scope-03.svg",
@@ -2078,7 +2078,7 @@ webpackJsonp([0], {
                 "15xscope": {
                     name: "15x Scope",
                     type: "scope",
-                    level: 15,
+                    level: 50,
                     rad: 1,
                     lootImg: {
                         sprite: "img/loot/loot-scope-04.svg",
